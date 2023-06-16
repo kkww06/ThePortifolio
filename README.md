@@ -61,10 +61,12 @@
 
 
 
-<h2> AULA 15.06 </h2
+<h2> AULA 15 e 16.06 </h2
 <h3> NOVA FUNÇÃO </h3>
 <ul> DoPost </ul>
-<p>  </p>
+<p> É colocado os dados num corpo separado da url </p>
+
+<p> Na aula prática nós fizemos um código copiado para URL e a segunda prática espelhada não foi realizada por conta de um horário cedido para Ana Luciene, para a execução do trabalho. </p>
 
   <h3> LINK DO CÓDIGO DA AULA </h3>
-  <a href="https://script.google.com/macros/s/AKfycbxdmWgR6ihQ_04UjdgzLggdnCpptKOSjHDGVDz_h8Zjn6si4w8TlUud68WAL2rruFtU6g/exec">SITE APRESENTADADO NESSE PORTIFOLIO</a>
+  <a href="https://script.google.com/macros/s/AKfycbxadlpoLzeCToWCSTt34krj7cFJIwQtFzVQuMcyVSY3a3Ev5WDixIP4U-TPYwHkOUaQlA/exec">SITE APRESENTADADO NESSE PORTIFOLIO</a>
