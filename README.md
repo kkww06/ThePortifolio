@@ -65,8 +65,18 @@
 <h3> NOVA FUNÇÃO </h3>
 <ul> DoPost </ul>
 <p> É colocado os dados num corpo separado da url </p>
+<p> function getUrl(){ </p>
+<p> var url = ScriptApp.getService().getUrl(); </p>
+<p> return url; </p>
 
 <p> Na aula prática nós fizemos um código copiado para URL e a segunda prática espelhada não foi realizada por conta de um horário cedido para Ana Luciene, para a execução do trabalho. </p>
 
   <h3> LINK DO CÓDIGO DA AULA </h3>
   <a href="https://script.google.com/macros/s/AKfycbxadlpoLzeCToWCSTt34krj7cFJIwQtFzVQuMcyVSY3a3Ev5WDixIP4U-TPYwHkOUaQlA/exec">SITE APRESENTADADO NESSE PORTIFOLIO</a>
+
+
+  <h2> AULA 21 E 22.06 </h2>
+
+  <H3> ATIVIDADE AVALIATIVA </H3>
+  <ul> LISTA 1 PROJETO 1 </ul>
+<p> Fiz uma atividade que deveriamos  </p>
