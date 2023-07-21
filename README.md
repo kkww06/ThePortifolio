@@ -1,5 +1,26 @@
 # ThePortifolio
 
+<h2> AULA 05.05 </h2>
+<h3> CRIANDO UM FÓRMULARIO </h3>
+
+  <h3> MOMENTO FAZENDO O CÓDIGO </h3>
+  <p> Ele pediu para que fosse copiado o código para fixarmos melhor ele, pórem em aulas passadas já haviamos feito isso, então foi bem mais fácil. </P>
+  
+  <h3> LINK DO CÓDIGO DA AULA </h3>
+  <a href="https://script.google.com/macros/s/AKfycbyovyP0SnCk0xFtqjJhsJCiLRsv7G9oRsdi0bIOYCA7MQ7RB2EZRGPZytXf9IgxAfWM/exec">SITE APRESENTADADO NESSA AULA</a>
+
+<h2> AULA 19.05 </h2>
+<h3> HTML COM CSS </h3>
+<h4> CONTEÚDOS APRENDIDOS </h4>
+<ul> como por CSS no Google Apps Script </ul>
+<p> Para utilizar de um CSS em um código construido no site Google Apps Scripts será feito em um arquivo HTML e funcionará corretamente. </p>
+
+  <h3> MOMENTO FAZENDO O CÓDIGO </h3>
+  <p> Ele pediu para que fosse copiado o código para fixarmos melhor ele. </P>
+  
+  <h3> LINK DO CÓDIGO DA AULA </h3>
+  <a href="https://script.google.com/macros/s/AKfycbxY9dv5ZSOTkM20LPeEt6t1dBah9GI3LP_WfaHeZ65kirhNml6grgT7GPzz5AnUdmxI/exec">SITE APRESENTADADO NESSA AULA</a>
+
 <h2> AULA 26.05 </h2>
 <h3> COMUNICAÇÃO CLIENTE-SERVIDOR </h3>
 <h4> CÓDIGOS E TAGS APRENDIDAS E SUAS FUNÇÕES </h4>
